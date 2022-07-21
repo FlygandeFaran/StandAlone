@@ -1,0 +1,30 @@
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\bin\debug\Standalone.exe
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\bin\debug\Standalone.pdb
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\bin\debug\VMS.TPS.Common.Model.API.dll
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\bin\debug\VMS.TPS.Common.Model.Types.dll
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\bin\debug\VMS.TPS.Common.Model.API.xml
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\bin\debug\VMS.TPS.Common.Model.Types.xml
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.csprojResolveAssemblyReference.cache
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.csproj.CoreCompileInputs.cache
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.csproj.CopyComplete
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.exe
+H:\Documents\C# scripting\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.csproj.CoreCompileInputs.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.MainWindow.resources
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.csproj.GenerateResource.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\s_Helkropp.txt
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\s_Hjärna.txt
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.IndeterminateProgressBar.resources
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\Standalone.esapi.exe.config
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\Standalone.esapi.exe
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\Standalone.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.esapi.exe
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\DVHextractor.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\DVHextractor.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\DVHextractor.esapi.dll.config
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.csproj.CopyComplete
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\VMS.TPS.Common.Model.API.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\bin\debug\VMS.TPS.Common.Model.Types.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.csprojAssemblyReference.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Scripts\Script wizard\Projects\Standalone\obj\x64\Debug\Standalone.StructureChart.resources
